@@ -1,5 +1,5 @@
-baseURL: "https://akilan.io/"
-title: Akilan
+baseURL: "https://flamboyant-edison-5f1d75.netlify.app/"
+title: 22940dev
 paginate: 5
 theme: PaperMod
 
@@ -49,8 +49,6 @@ params:
         buttons:
             - name: About
               url: about
-            - name: Resumé
-              url: resume
             - name: Projects
               url: projects
             - name: Technical Posts
